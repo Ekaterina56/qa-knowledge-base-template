@@ -1,10 +1,10 @@
-# Состояние окон Obsidian — у каждого своё
+# Стан вікон Obsidian — у кожного свій
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .trash/
 
-# Медиа храним в облаке, в базе — только ссылки
+# Медіа зберігаємо в хмарі, у базі — лише посилання
 *.mp4
 *.mov
 *.avi
@@ -15,7 +15,7 @@
 *.apk
 *.aab
 
-# Системное
+# Системне
 Thumbs.db
 desktop.ini
 .DS_Store
