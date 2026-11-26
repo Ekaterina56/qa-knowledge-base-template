@@ -1,0 +1,21 @@
+# Состояние окон Obsidian — у каждого своё
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
+
+# Медиа храним в облаке, в базе — только ссылки
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.zip
+*.7z
+*.apk
+*.aab
+
+# Системное
+Thumbs.db
+desktop.ini
+.DS_Store
